@@ -1,0 +1,7 @@
+{
+  "name": "cobaionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
